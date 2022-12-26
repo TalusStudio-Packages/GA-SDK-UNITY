@@ -7,9 +7,6 @@
     "dependencies": {
         "com.talus.talusresolver": "1.2.169"
     },
-    "publishConfig": {
-        "registry": "https://package.openupm.com"
-    },
     "keywords": [
         "data",
         "analytics",
