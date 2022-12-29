@@ -1,11 +1,11 @@
 {
   "name": "com.talus.talusga",
-  "version": "7.5.3",
+  "version": "7.5.4",
   "displayName": "GameAnalytics",
   "description": "Original Version : 7.5.0",
   "unity": "2018.1",
   "dependencies": {
-    "com.talus.talusresolver": "1.2.2"
+    "com.talus.talusresolver": "1.2.3"
   },
   "keywords": [
     "data",
